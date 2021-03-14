@@ -1,3 +1,7 @@
+
+Req.2: Lindsay Vanessa Pinto Morato Código: 202023139   correo: l.pintom@uniandes.edu.co
+Req.3: Maicol Yojan Antonio Rincon código: 202027329    correo: m.antonio@uniandes.edu.co
+
 #ISIS1225 - Librerias de soporte
 
 Este proyecto contiene los Tipos abstractos de datos, estructuras de datos y algoritmos requeridos por el curso ISIS1225-Estructuras de Datos y Algoritmos
