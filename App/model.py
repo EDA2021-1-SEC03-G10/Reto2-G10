@@ -24,7 +24,6 @@
  * Dario Correal - Version inicial
  """
 
-
 import config as cf
 from DISClib.ADT import list as lt
 from DISClib.ADT import map as mp
@@ -68,8 +67,8 @@ def newCatalog():
                                 cmpfunction=comparecategories)
 
     catalog['categoriesId'] = mp.newMap(37,
-                                maptype='PROBING',
-                                loadfactor=0.5,
+                                maptype='CHANING',
+                                loadfactor=4.00,
                                 comparefunction=compareCategoryIds)
 
     return catalog
